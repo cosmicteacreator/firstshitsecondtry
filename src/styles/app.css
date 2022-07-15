@@ -1,0 +1,18 @@
+
+.App{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 280px));
+    grid-column-gap: 18px;
+    grid-row-gap: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.Kartochka{
+    
+   
+}
+.picture{
+    width: 80%;
+    height:80%;
+}
